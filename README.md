@@ -1,14 +1,14 @@
-# Blackmask
+# Blaskmask
 developer
 
-# Hi there, I'm Frances! 👋
+# Hi there, I'm blask! 👋
 
 Welcome to my GitHub profile! I'm passionate about technology, coding, and open-source contributions. Let me introduce myself:
 
 ## About Me
 
-- **Name:** Frances
-- **Username:** blackmaskfrances
+- **Name:** blask
+- **Username:** blaskmask
 - **Occupation:** Software Developer
 - **Interests:** Coding, AI, Open Source, Cybersecurity, Gaming
 
