@@ -1,5 +1,5 @@
 # Blaskmask
-developer
+Code developer
 
 # Hi there, I'm blask! 👋
 
@@ -10,15 +10,15 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and open-
 - **Name:** blask
 - **Username:** blaskmask
 - **Occupation:** Software Developer
-- **Interests:** Coding, AI, Open Source, Cybersecurity, Gaming
+- **Interests:** Coding, App developer, web site
 
 ## Skills
 
-- **Languages:** Python, JavaScript, TypeScript, C++, Java
+- **Languages:** Python, JavaScript, Dart
 - **Frameworks:** React, Node.js, Django, Flask, Spring Boot
 - **DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions
 - **Databases:** PostgreSQL, MySQL, MongoDB
-- **Tools:** Git, VSCode, Postman, Linux
+- **Tools:** Git, VSCode, Postman
 
 ## Projects
 
